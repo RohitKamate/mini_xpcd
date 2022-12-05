@@ -50,3 +50,4 @@ if __name__ == "__main__":
     # print(parser.print_help())
     result = rand_gen(1, args.max, args.any)
     print(result)
+    print()
